@@ -322,6 +322,7 @@ input:focus-visible {
 
 #modal {
     background: rgba(0, 0, 0, 0.75);
+    padding: 5%;
 }
 
 #modal .containerModal {
